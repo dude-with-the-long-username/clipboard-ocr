@@ -1,4 +1,3 @@
-fileinput
 pillow
 pytesseract
 numpy
